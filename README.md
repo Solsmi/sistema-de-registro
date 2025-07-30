@@ -27,3 +27,5 @@ Nuestro **primer ejemplo** de fragmento de texto en Markdown.
 
 Para ejecutar el sistema, debes poner:
 ```npm install react```
+
+Sistema de Registro 2
