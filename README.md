@@ -1,21 +1,17 @@
-<h1> Sistema de Registro </h1>
-
-<h2 align="center">
+# Sistema de Registro
+Aquí ejemplo con HTML
+<h1 align="center">
 :construction: Proyecto en construcción :construction:
-</h2>
+</h1>
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
+## Ejemplo en Markdown
 Nuestro **primer ejemplo** de fragmento de texto en Markdown.
 > Aquí poner una [página con mas información](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) a modo de ejemplo.
 
-# Titulo 
-## Subtítulo
-### otras subdivisiones y así sucesivamente.
-
-<h2> Ejemplo en Markdown </h2>
-##Índice
+## Índice
 [Título e imagen de portada](#Título-e-imagen-de-portada)
 [Insignias](#insignias)
 [Índice](#índice)
@@ -28,3 +24,6 @@ Nuestro **primer ejemplo** de fragmento de texto en Markdown.
 [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 [Licencia](#licencia)
 [Conclusión](#conclusión)
+
+Para ejecutar el sistema, debes poner:
+```npm install react```
